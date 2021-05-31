@@ -1,2 +1,2 @@
-# flutter-chat-application
-A Chat Application Made In Flutter With Firebase Firestore
+# Flutter chat application
+A Chatting Application Made In Flutter With Firebase Firestore
